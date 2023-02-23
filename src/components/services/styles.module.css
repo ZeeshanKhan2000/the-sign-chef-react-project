@@ -1,0 +1,38 @@
+.servicesContent img {
+  width: 36%;
+}
+.servicesContent {
+  text-align: center;
+  /* width: 90%; */
+}
+
+.servicesContent h6 {
+  text-align: center;
+  font: normal normal 600 30px/41px Nunito;
+  letter-spacing: 0px;
+  color: #414141;
+  opacity: 1;
+  margin: 10px 0;
+}
+
+.servicesContent p {
+  text-align: center;
+  font: normal normal normal 20px/27px Nunito;
+  letter-spacing: 0px;
+  color: #414141;
+  opacity: 1;
+  padding: 0 40px;
+}
+
+.servicesData {
+  background: #f2f2f2 0% 0% no-repeat padding-box;
+  box-shadow: 12px 12px 8px #00000029;
+  border-radius: 30px;
+  opacity: 1;
+  width: 90%;
+  padding: 25px 6px;
+}
+
+.servicesSection {
+  padding: 50px 0;
+}

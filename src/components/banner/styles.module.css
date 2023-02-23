@@ -1,0 +1,62 @@
+.bannerimage img {
+  width: 100%;
+}
+
+.bannerSection {
+  background-image: url("../../assets/images/banner/bgbanner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 53px 0;
+}
+
+.bannerContent h6 {
+  text-align: center;
+  font: italic normal normal 59px/74px Merriweather;
+  letter-spacing: 0px;
+  color: #010101;
+  opacity: 1;
+  padding: 5px 0;
+}
+.bannerContent h5 {
+  text-align: center;
+  font: italic normal normal 59px/74px Merriweather;
+  letter-spacing: 0px;
+  color: #010101;
+  opacity: 1;
+}
+
+.bannerContent h1 {
+  text-align: center;
+  font: normal normal bold 84px/47px Merriweather;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  padding: 11px 0;
+}
+
+.bannerBtn {
+  text-align: center;
+}
+
+.bannerBtn .bannerActive {
+  background: #001870 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+  text-decoration: none;
+  padding: 6px 30px;
+  color: #fff;
+}
+
+.bannerBtn a {
+  background: #414141 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+  padding: 7px 28px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.bannerContent {
+  padding: 40px 0;
+}

@@ -1,0 +1,55 @@
+.recommendationContent img {
+  width: 100%;
+}
+
+.recommendationHeading h6 {
+  text-align: center;
+  font: italic normal normal 24px/27px Nunito;
+  letter-spacing: 0px;
+  color: #414141;
+  opacity: 1;
+  margin: 0;
+}
+
+.RecommendationSection {
+  padding: 50px 0;
+}
+
+.recommendationMainContent {
+  background-color: #001870;
+  padding: 15px 72px;
+}
+
+.recommendationMainContent h4 {
+  text-align: left;
+  font: italic normal normal 20px/31px Nunito;
+  letter-spacing: 0px;
+  color: #f8f8f8;
+  opacity: 1;
+  padding: 4px 0 44px 0;
+  margin: 0;
+}
+
+.recommendationMainContent h6 {
+  text-align: left;
+  font: normal normal normal 19px/21px Nunito;
+  letter-spacing: 0px;
+  color: #f8f8f8;
+  opacity: 1;
+  margin: 0;
+}
+.recommendationMainContent p {
+  text-align: left;
+  font: normal normal normal 19px/22px Nunito;
+  letter-spacing: 0px;
+  color: #00ff00;
+  opacity: 1;
+  padding: 11px 0 0 0;
+  margin: 0;
+}
+
+.recommendationStar span svg {
+  color: #ffbe00;
+  margin: 8px 5px;
+  font-size: 24px;
+}

@@ -1,0 +1,27 @@
+.typesOrganizationHeading h1 {
+  text-align: center;
+  font: normal normal normal 53px/66px Nunito;
+  letter-spacing: 0px;
+  color: #414141;
+  opacity: 1;
+}
+
+.typesOrganizationContent ul li {
+  list-style: none;
+  text-align: left;
+  font: normal normal normal 24px/43px Nunito;
+  letter-spacing: 0px;
+  color: #292929;
+  opacity: 1;
+  padding: 2px 0px;
+}
+
+.typesOrganizationContent ul li svg {
+  color: #09912f;
+  margin: 0 7px;
+  font-size: 25px;
+}
+
+.typesOrganizationContent {
+  margin: 40px 0;
+}

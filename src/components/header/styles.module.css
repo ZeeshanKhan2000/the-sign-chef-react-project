@@ -1,0 +1,49 @@
+/* header top css */
+.bgGreen {
+  background: green;
+}
+
+.topHeader {
+  text-align: center;
+  color: #fff;
+  font-size: 12px;
+}
+
+/* header css */
+.bgBlue {
+  background: blue;
+}
+
+.header {
+  display: flex;
+  align-items: baseline;
+  gap: 17px;
+  color: #fff;
+}
+
+form input {
+  background: transparent;
+  border: 0;
+  border-bottom: 2px solid #fff;
+}
+
+form input::placeholder {
+  color: #fff;
+}
+
+.headerRight {
+  display: flex;
+  color: aliceblue;
+  gap: 24px;
+  justify-content: flex-end;
+}
+
+.headerRightLinks {
+  color: #fff;
+  text-align: end;
+  margin-top: 26px;
+  margin-right: 21px;
+}
+.headerRightLinks h6 span {
+  margin: 0 10px;
+}
