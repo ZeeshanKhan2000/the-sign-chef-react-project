@@ -1,0 +1,108 @@
+.ourPromissesImage img {
+  width: 100%;
+}
+.ourPromissesImagetable img {
+  width: 100%;
+}
+
+.ourPromissesContent h2 {
+  text-align: center;
+  font: normal normal 600 50px/50px Nunito;
+  letter-spacing: 0px;
+  color: #001870;
+  opacity: 1;
+  padding: 0 0 30px 0;
+}
+.ourPromissesContenttable h2 {
+    /* text-align: center;  */
+    font: normal normal 600 31px/41px Nunito;
+    letter-spacing: 0px;
+    color: #001870;
+    opacity: 1;
+    padding: 0px 0 13px 0;
+}
+
+.ourPromissesPoints {
+  display: flex;
+  gap: 15px;
+}
+.ourPromissesPoints2 {
+  display: flex;
+  gap: 15px;
+}
+
+.ourPromissesPoints h6 {
+  text-align: left;
+  font: normal normal normal 21px/26px Nunito;
+  letter-spacing: 0px;
+  color: #414141;
+  opacity: 1;
+  padding: 9px 0;
+}
+
+.ourPromissesPoints2 h6 {
+    /* text-align: left; */
+    font: normal normal normal 19px/22px Nunito;
+    letter-spacing: 0px;
+    color: #414141;
+    opacity: 1;
+    padding: 10px 0;
+}
+
+.ourPromissesPoints h6 svg {
+  color: #09912f;
+  font-size: 29px;
+}
+.ourPromissesPoints2 h6 svg {
+  color: #09912f;
+  font-size: 29px;
+}
+
+.ourPromissesContent {
+  background-color: #f2f2f2;
+  padding: 23px 82px 15px 82px;
+  margin: 38px 0 0px 0;;
+}
+
+.ourPromissesContenttable {
+  background-color: #f2f2f2;
+  padding: 27px 82px 33px 82px;
+  margin: 51px 0 0px 0;
+}
+
+.ourPromissesSection {
+  margin: 129px 0 86px 0;
+}
+
+.smillingShifContent p {
+  text-align: center;
+  font: italic normal normal 32px/53px Nunito;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.smillingShifContent {
+  padding: 35px 87px;
+}
+
+.smillingshifSection {
+  background-color: #001870;
+  margin: 157px 0 0px 0;
+}
+
+.SmillingImageDiv img {
+  width: 100%;
+}
+
+.profileDetails img {
+  width: 33%;
+  /* display: flex; */
+  position: absolute;
+  right: 5%;
+  bottom: -178px;
+}
+
+.profileDetails {
+  position: relative;
+}

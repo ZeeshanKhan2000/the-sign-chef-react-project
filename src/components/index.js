@@ -1,6 +1,12 @@
-export {default as Header} from "./header";
-export {default as Banner} from "./banner";
-export {default as Services} from "./services";
-export {default as Product} from "./product";
-export {default as Recommendation} from "./recomendation";
-export {default as TypesOrganization} from "./typesOrganization";
+export { default as Header } from "./header";
+export { default as Banner } from "./banner";
+export { default as Services } from "./services";
+export { default as Product } from "./product";
+export { default as Recommendation } from "./recomendation";
+export { default as TypesOrganization } from "./typesOrganization";
+export { default as TypesOfSign } from "./typeOfSign";
+export { default as OurPromisses } from "./ourPromisses";
+export { default as BrandDeserve } from "./BrandDeserves";
+export { default as FaqsPage } from "./FAQs";
+export { default as CompanyDetails } from "./companySign";
+export { default as Footer } from "./footer";

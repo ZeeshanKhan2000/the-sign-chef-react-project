@@ -1,0 +1,72 @@
+.typesOfSignContent {
+  background-color: #001870;
+  padding: 55px 65px;
+  margin: 100px 0;
+}
+.typesOfSignContent h2 {
+  text-align: left;
+  font: normal normal normal 30px/36px Merriweather;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  padding: 14px 0;
+}
+.typesOfSignContent h4 {
+  text-align: left;
+  font: normal normal normal 20px/41px Nunito;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  padding: 0 0 28px 0;
+}
+
+.typesOfSignContent h6 {
+  text-align: left;
+  font: normal normal normal 20px/34px Nunito;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  padding: 4px 0;
+}
+
+
+.typesOfSignContent h6 svg {
+  margin: 0px 20px;
+  color: aqua;
+}
+
+.typesOfSignContentLinks {
+  display: flex;
+}
+
+.typesOfSignSection {
+  padding: 50px 0;
+}
+
+.typesOfSignImage img {
+  width: 100%;
+}
+
+.DetailSignsection {
+  background: #f2f2f2 0% 0% no-repeat padding-box;
+  opacity: 1;
+  padding: 50px 0;
+  margin: 50px 0;
+}
+
+.DetailSignContent h3 {
+  text-align: center;
+  font: italic normal normal 35px/52px Proxima Nova;
+  letter-spacing: 0px;
+  color: #414141;
+  opacity: 1;
+  padding: 20px 0;
+}
+
+.DetailSignContent h1 {
+  text-align: center;
+  font: normal normal 600 52px/66px Nunito;
+  letter-spacing: 0px;
+  color: #001870;
+  opacity: 1;
+}

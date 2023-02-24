@@ -12,12 +12,13 @@
 
 .bannerContent h6 {
   text-align: center;
-  font: italic normal normal 59px/74px Merriweather;
+  font: italic normal normal 55px/72px Merriweather;
   letter-spacing: 0px;
   color: #010101;
   opacity: 1;
   padding: 5px 0;
 }
+
 .bannerContent h5 {
   text-align: center;
   font: italic normal normal 59px/74px Merriweather;
@@ -28,11 +29,11 @@
 
 .bannerContent h1 {
   text-align: center;
-  font: normal normal bold 84px/47px Merriweather;
+  font: normal normal bold 76px/29px Merriweather;
   letter-spacing: 0px;
   color: #000000;
   opacity: 1;
-  padding: 11px 0;
+  padding: 5px 0;
 }
 
 .bannerBtn {
